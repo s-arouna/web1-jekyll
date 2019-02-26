@@ -30,6 +30,7 @@
 				<li><a href="{{ site.baseurl }}/">Home</a></li>
 				<li><a href="{{ site.baseurl }}/forecast">Forecast</a></li>
 				<li><a href="{{ site.baseurl }}/operations">Operations</a></li>
+				<li><a href="{{ site.baseurl }}/something">The Goat</a></li>
 			</ul>
 		</nav>
 		
@@ -40,8 +41,9 @@
 		Our animal: {{ page.animal }}
 		
 		{% if page.animal=="GOAT" %}
-			We've got the greatest of all time over here
-		{% endif %}
+				<a hreft="{{ p.permalink}}"> {{p.title}} <a/a>
+			{% endif %}
+		{% endfor %}
 
 		<hr>
 

@@ -4,7 +4,6 @@ image:
 title: Water Quality
 category: Environment 
 ---
-# Water Quality
 
 ## What Happens Upstream Matters!
 Water alone is not enough; quality matters too. Quality is not only important for human uses such as drinking water and swimming, but also for the flora and fauna that call those waters home. They, too, need clean water to survive.

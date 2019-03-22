@@ -3,10 +3,10 @@ layout: specific
 image: 
 title: Little Known Wilderness and Natural Area Near Mobile, Alabama, Sharing Its Secrets
 date: December 19, 2016 
+author: Jeffery Olson
 category: Environment 
 ---
 
-Contact: Jeffrey Olson, 202-208-6843 
 WASHINGTON - The greater Mobile-Tensaw River area is at least 200,000 acres of rich natural biodiversity that is culturally complex and of significant socioeconomic value. It is also the subject of a new "state of scientific knowledge" report authored by a group of scientists and scholars interested in the future of the area in southwest Alabama.
 
 Its leading proponent is Pulitzer Prize winner Dr. Edward O. Wilson, a Harvard University scientist and native Alabaman. "The Greater Mobile-Tensaw River Area is a national treasure that has just begun to yield its secrets," Wilson says. “Is there any other place in America where residents and visitors can live in a modern city and yet travel into an authentically wild area within an hour?"

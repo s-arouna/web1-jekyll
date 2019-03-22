@@ -2,8 +2,8 @@
 layout: cata
 ---
 
-## Animals
-## People
-### Environment
-### History
-### Other
+# Animals
+# People
+# Environment
+# History
+# Other

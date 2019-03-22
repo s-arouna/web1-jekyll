@@ -5,9 +5,10 @@ title: Groundwater in National Parks
 category: Environment 
 ---
 
-##What's Going on Down There?
+## What's Going on Down There?
 <em>While there are many rivers, lakes, and oceans scattered across the National Park Service, what about all the water you can’t see?</em>
 <img src="img/Arial_spring1.jpg" alt="Arial_spring1">
+
 Groundwater is more than just water that is stored underground in between the spaces and cracks in soil and rock, its a dynamic and vital force. While you can’t see the aquifers underground, you can see where the groundwater meets the surface in the form of seeps and springs. Many parks, especially in the arid west, rely on groundwater for park and ecosystem functions.
 
 An aerial view of two rainbow colored hot springs giving off steam.  

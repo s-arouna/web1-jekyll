@@ -20,13 +20,13 @@ layout: article_list
       It is especially important in the west where water is scarce. </p>
 </div>
 
-<div class="article4">
+<div class="article3">
 <img src="/web1-jekyll/img/water1.jpg" alt="photo of water1" class="photo-water1">
   <h4>Hydrology:</h4>
   <p>In short, hydrology is the study of the occurrence and movement of water in the environment. Water comes in many forms     and frequently changes and moves throughout the environment. As water interacts with its surroundings, it can affect            habitats and resources in different ways.</p>
 </div>
 
-<div class="article3">
+<div class="article4">
 <img src="/web1-jekyll/img/nature.jpeg" alt="photo of nature" class="photo-nature">
   <h4>A World of World Life:</h4>
   <p>From the smallest mouse to a giant grizzly bear, national parks are home to animals of all shapes and sizes.</p>

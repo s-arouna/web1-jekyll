@@ -14,7 +14,7 @@ Groundwater is water underneath the earth's surface that fills the cracks and vo
 Groundwater supplies springs and provides base flow to rivers and streams as well as supporting wetlands. 
 It is especially important in the west where water is scarce. 
 
-<img src="/img/nature.jpg" alt="photo of nature" class="photo-nature">
+<img src="/img/nature.jpeg" alt="photo of nature" class="photo-nature">
 # A World of World Life:
 From the smallest mouse to a giant grizzly bear, national parks are home to animals of all shapes and sizes.
 

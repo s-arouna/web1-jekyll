@@ -7,7 +7,8 @@ layout: article_list
   <div class="article1">
     <img src="/web1-jekyll/img/surface.jpg" alt="photo of surface" class="photo-surface">
     <h4>Surface Water:</h4>
-      <p>This is water that can be seen on the surface such as rivers, streams, lakes, ponds, glaciers or wetlands. 
+      <p>Water occurs in many forms; precipitation (rain, fog and snow), streams, rivers, ponds, lakes, snow pack, permafrost,       glaciers, soil water (moisture), and groundwater. 
+       This is water that can be seen on the surface such as rivers, streams, lakes, ponds, glaciers or wetlands. 
       Surface water interacts with many different factors in the environment and as such can become contaminated 
         or pick up different pollutants along the way.</p>
   </div>

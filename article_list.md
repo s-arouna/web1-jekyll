@@ -3,10 +3,13 @@ layout: article_list
 ---
 
 <img src="/img/surface.jpg" alt="photo of surface" class="photo-surface">
-# Surface Water:
-This is water that can be seen on the surface such as rivers, streams, lakes, ponds, glaciers or wetlands. 
-Surface water interacts with many different factors in the environment and as such can become contaminated 
-or pick up different pollutants along the way.
+<div class="article">
+  <div class="article1">
+    <h4>Surface Water</h4>:
+      <p>This is water that can be seen on the surface such as rivers, streams, lakes, ponds, glaciers or wetlands. 
+      Surface water interacts with many different factors in the environment and as such can become contaminated 
+        or pick up different pollutants along the way.</p>
+  </div>
 
 <img src="/img/water.jpg" alt="photo of water" class="photo-water">
 # roundwater:

@@ -14,7 +14,7 @@ layout: article_list
 
 <div class="article2">
  <img src="/web1-jekyll/img/water.jpg" alt="photo of water" class="photo-water">
-  <h4>roundwater:</h4>
+  <h4>Groundwater:</h4>
     <p>Groundwater is water underneath the earth's surface that fills the cracks and voids that occur in the soil and bedrock. 
         Groundwater supplies springs and provides base flow to rivers and streams as well as supporting wetlands. 
       It is especially important in the west where water is scarce. </p>

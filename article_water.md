@@ -2,7 +2,7 @@
 layout: article_water
 ---
 
-<img src="/img/chuan.jpg" alt="photo of chuan" class="photo-chuan">
+<img src="/web1-jekyll/img/chuan.jpg" alt="photo of chuan" class="photo-chuan">
 Water Quantity
 Different layers of sandstone in canyon walls reflected into water below. 
 Black Canyon at Lake Mead National Recreation Area.

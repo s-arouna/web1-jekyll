@@ -1,5 +1,5 @@
 ---
-layout: article_water
+layout: specific
 ---
 
 <img src="/web1-jekyll/img/chuan.jpg" alt="photo of chuan" class="photo-chuan">

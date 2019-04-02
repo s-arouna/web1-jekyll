@@ -49,6 +49,16 @@ body {
     		grid-template-columns:1fr 1fr;
 		height: 70vh;
 }
+.cata1 {width: 100%;
+		display: grid;
+    		grid-template-columns:1fr 1fr;
+		height: 92vh;
+}
+.cata2 {width: 100%;
+		display: grid;
+    		grid-template-columns:1fr 1fr 1fr;
+		height: 92vh;
+}
 .article {
 	margin: 0 auto  auto;
     padding:0 1rem;

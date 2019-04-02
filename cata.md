@@ -2,11 +2,11 @@
 layout: cata
 ---
 <div class="cata1">
-# Animals
-# People
+<h1> Animals </h1>
+<h1> People </h1>
   </div>
   <div class="cata2">
-# <a href="environment_article.html">Environment</a>
-# History
-# Other
+<h1> <a href="environment_article.html">Environment</a> </h1>
+<h1> History </h1>
+<h1> Other </h1>
   </div>

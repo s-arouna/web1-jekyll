@@ -2,7 +2,7 @@
 layout: page
 image: img/nps.cover.jpg
 ---
-<div class="index.split">
+<div class="indexsplit">
 <img src="img/nps.cover.jpg" alt="nps">
  <h1> National Park Service </h1>
  

@@ -47,7 +47,7 @@ body {
 .indexsplit {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 92vh;
+		height: 70vh;
 }
 .article {
 	margin: 0 auto  auto;

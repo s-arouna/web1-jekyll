@@ -2,12 +2,7 @@
 layout: article_list
 ---
 
-<nav class="cover-nav">				
-			<ul>
-				<li><a href="index.html" class="sitename"><b>HOME</b></a></li>
-				<li><a href="ABOUT.html" class="page1"><b>About</b></a></li>
-			</ul>
-		</nav>
+
 <div class="article">
   <div class="article1">
     <img src="/web1-jekyll/img/surface.jpg" alt="photo of surface" class="photo-surface">

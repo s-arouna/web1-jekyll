@@ -100,7 +100,24 @@ p {
 .photo-surface {
 	width:100%;
 }
-	
+
+/*---------------water  quantity---------------------*/
+.water {
+	margin: 0 auto  auto;
+    padding:0 1rem;
+    padding-top: 7em;
+    width: 100%;   
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+.water1 {
+	grid-column:1/4;
+}
+
+.water2 {
+	grid-column:3/4;
+}
 
 
 

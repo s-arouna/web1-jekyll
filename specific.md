@@ -22,6 +22,6 @@ layout: specific
 
       <p>During prolonged periods of high temperatures and low precipitation, evaporation from reservoirs can substantially             lower water levels. </p>
       <p>For example, Lake Mead National Recreation Area surrounds a large reservoir on the Colorado River that stores water            for irrigation, hydropower and municipal water delivery uses. Over the years, Lake Mead has lost a significant amount           of water due to drought and a warming climate. Measuring water levels helps us determine trends that can affect             parks over time. Scientists predict that current use coupled with a dryer climate could cause the lake to potentially           lose up to 12 vertical feet of water annually! Although many parks do not control the operation of dams, they can           adjust the management techniques of water-based recreational activities ( like boating and fishing) for parks based on          water availability.</p>
-  </div>
+        </div>
 </div>
 

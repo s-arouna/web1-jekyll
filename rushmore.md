@@ -1,6 +1,6 @@
 ---
 layout: specific
-title: People of Yosemite
+title: Why These Four Presidents?
 ---
 <img src="/web1-jekyll/img/mtrushmore.jpeg" alt="mtrushmore" class="photo-surface">
 

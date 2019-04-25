@@ -25,7 +25,36 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 
 /* ------------------------------------------------------------ */
 /* start project-specifc styles below this line */
-
+.navbar {
+	 display: grid;
+	    grid-template-columns: 1fr ;
+	background: white;
+      		height:8vh;
+	}
+	nav ul{
+		list-style-type: none;
+		margin-right: auto;
+		margin-left: auto;
+		padding-right: 3em;
+		overflow: hidden;
+	}
+	nav li {
+	  float: left;
+	  padding: 4px 4px;
+	  font-family: Arial;
+	  font-style: normal;
+	  font-weight: bold;
+	}
+	nav li a {
+	  color: black;
+	  text-align: center;
+	  padding: 18px 16px;
+	  margin-left: 2em;
+	  text-decoration: none;
+	}
+	nav li a:hover:not(.active) {
+	  font-weight: 700;
+	}
 body {
 	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;

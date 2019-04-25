@@ -7,6 +7,6 @@ layout: cata
   </div>
   <div class="cata2">
 <h1> <a href="article_list.html">Environment</a> </h1>
-<h1> History </h1>
+<h1> <a href="history.html">History</a> </h1>
 <h1> Other </h1>
   </div>

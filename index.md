@@ -2,6 +2,7 @@
 layout: page
 image: img/nps.cover.jpg
 ---
+
 <div class="indexsplit">
 <img src="img/nps.cover.jpg" alt="nps">
 <div class="hometxt">

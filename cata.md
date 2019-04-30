@@ -1,6 +1,7 @@
 ---
 layout: cata
 ---
+
 <div class="cata1">
   <div class="animals">
   <h1> <a href="animals.html">Animals</a> </h1>

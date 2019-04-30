@@ -61,6 +61,10 @@ body {
 	line-height: 1.5em;
 	color: #222;
 }
+
+
+/*---------------Catagories---------------------*/
+
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg);
 		background-size: cover;
@@ -102,17 +106,24 @@ body {
 	something wrong. 	
 */
 .container {
-	padding: 1em;
+	padding: .5em;
 	background-color: #F0F0F0;
 	width:100%;
 	height:100%;
 }
+
+
+/*--------------- Home ---------------------*/
 .indexsplit {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 2fr;
 		height: 70vh;
 		max-width:50%;
 }
+
+
+
+/*--------------- articles_list ---------------------*/
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;

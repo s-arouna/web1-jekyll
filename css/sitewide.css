@@ -63,20 +63,20 @@ body {
 }
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg;
-		max-width:70%;
+		width:70%;
 		)
 }
 .people {
 		background-image:url(/web1-jekyll/img/yosemite.jpeg;
-			max-width:70%;
+			width:70%;
 }
 .environment {
 		background-image:url(/web1-jekyll/img/water1.jpg;
-			max-width:70%;
+			width:70%;
 }
 .history {
 		background-image:url(/web1-jekyll/rushmore.html;
-			max-width:70%;
+			width:70%;
 }			
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 

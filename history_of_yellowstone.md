@@ -3,7 +3,7 @@ layout: specific
 title: History of Yellowstone
 ---
 
-<img src="/web1-jekyll/img/yellowstone_history.jpeg" alt="yellowsone" class="photo-surface">
+<img src="/web1-jekyll/img/yellowstone_history.jpeg" alt="yellowstone" class="photo-surface">
 
 The human history of the Yellowstone region goes back more than 11,000 years. The stories of people in Yellowstone are preserved in objects that convey information about past human activities in the region, and in people’s connections to the land that provide a sense of place or identity.
 

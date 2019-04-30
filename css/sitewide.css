@@ -61,7 +61,18 @@ body {
 	line-height: 1.5em;
 	color: #222;
 }
-
+.animals {
+		background-image:url(/web1-jekyll/img/bear.jpeg)
+}
+.people {
+		background-image:url(/web1-jekyll/img/yosemite.jpeg
+}
+.environment {
+		background-image:url(/web1-jekyll/img/water1.jpg
+}
+.history {
+		background-image:url(/web1-jekyll/rushmore.html
+}			
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
 	If you have more than one container, you are probably doing

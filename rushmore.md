@@ -2,7 +2,7 @@
 layout: specific
 title: Why These Four Presidents?
 ---
-<img src="/web1-jekyll/img/mtrushmore.jpeg" alt="mtrushmore" class="photo-surface">
+<img src="/web1-jekyll/img/mtrushmore.jpg" alt="mtrushmore" class="photo-surface">
 
 Gutzon Borglum selected these four presidents because from his perspective, they represented the most important events in the history of the United States. Would another artist at that time, or perhaps a modern artist choose differently? As you read more about Borglum's choices, think about what you might have done if the decision was up to you.
 

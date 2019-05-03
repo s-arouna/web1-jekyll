@@ -2,7 +2,7 @@
 layout: specific
 title: People of Yosemite
 ---
-<img src="/web1-jekyll/img/yosemite.jpg" alt="photo of surface" class="photo-surface">
+<img src="/web1-jekyll/img/yosemite.jpeg" alt="photo of surface" class="photo-surface">
 
 The history of people in Yosemite goes back thousands of years. American Indians traveled and used this area since Ice Age glaciers receded providing an environment for plants, animals, and people to survive. Their descendents remain a part of Yosemite’s history to the present day.
 

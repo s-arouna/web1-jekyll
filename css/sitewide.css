@@ -59,6 +59,29 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	  font-weight: 700;
 	}
 
+/* ------------------------ Button ------------------------------ */
+.button {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+	background-color: #B0D2AB;
+	padding: .5em;
+	font-family: Arial;
+	font-style:italic;
+  font-weight:100;
+	margin: 0 auto;
+
+}
+.buttonposistion a{margin: 0 auto;
+display: block;
+width: 7em;}
+
+.button:hover:not(.active) {
+  background-color: #73A66B;
+  font-weight: 700;
+}
 
 /* ----------------------------Site style ------------------------------ */
 body {

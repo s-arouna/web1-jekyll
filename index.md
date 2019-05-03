@@ -12,4 +12,3 @@ Since 1916, the National Park Service has been entrusted with the care of our na
  </div>
 
 </div>
-</div>

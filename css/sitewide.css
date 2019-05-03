@@ -117,25 +117,24 @@ body {
 		background-image:url(/web1-jekyll/img/yosemite.jpeg);
 		background-size: cover;
 		background-position: center 100%;
-		max-width:98%;
+		max-width:100%;
 }
 .environment {
 		background-image:url(/web1-jekyll/img/water1.jpg);
 		background-size: cover;
 		background-position: center 100%;
-		max-width:98%;
-}
+		max-width:100%;
 .history {
 		background-image:url(/web1-jekyll/img/mtrushmore.jpg);
 		background-size: cover;
 		background-position: center 100%;
-		max-width:98%;
+		max-width:100%;
 }
 .other {
 		background-image:url(/web1-jekyll/img/bison.jpeg);
 		background-size: cover;
 		background-position: center 100%;
-		max-width:98%;
+		max-width:100%;
 }
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 

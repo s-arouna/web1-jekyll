@@ -3,7 +3,9 @@ layout: specific
 ---
 
 <img src="/web1-jekyll/img/chuan.jpg" alt="photo of chuan" class="photo-chuan">
+<div class="water-name">
 <h1>Water Quantity</h1>
+    </div>
 <div class="water">
     <div class="water1">
     <h3>Is There Enough?</h3>

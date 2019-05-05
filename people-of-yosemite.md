@@ -2,8 +2,9 @@
 layout: specific
 title: People of Yosemite
 ---
+<div class="img2">
 <img src="/web1-jekyll/img/yosemite.jpeg" alt="photo of surface" class="photo-surface">
-
+</div>
 The history of people in Yosemite goes back thousands of years. American Indians traveled and used this area since Ice Age glaciers receded providing an environment for plants, animals, and people to survive. Their descendents remain a part of Yosemite’s history to the present day.
 
 In 1849, the discovery of gold in California meant new groups of people arriving in California. Competition for land and resources brought many of these groups into conflict, and, often, into violent confrontations. The first non-native group to enter Yosemite was the Mariposa Battalion, a Euro-American militia formed to drive the native Ahwahneechee people onto reservations. After the Mariposa Indian War came to a close, Yosemite was now open to settlement and speculation.

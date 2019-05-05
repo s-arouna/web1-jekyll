@@ -14,7 +14,7 @@ layout: article_list
   </div>
 
 <div class="article2">
-  <a href="/web1-jekyll/groundwater.html">
+  <a href="/web1-jekyll/specific.html">
  <img src="/web1-jekyll/img/water.jpg" alt="photo of water" class="photo-water">
   <h4>Groundwater:</h4>
     <p>Groundwater is water underneath the earth's surface that fills the cracks and voids that occur in the soil and bedrock. 

@@ -81,7 +81,7 @@ width: 2em;}
   background-color: #73A66B;
   font-weight: 700;
 }
-.img2 {max-width: 100%;
+.img2 {max-width: 90%;
 	padding-bottom: 1em;	
 }
 	
@@ -96,7 +96,7 @@ body {
 	background-color: #FFFFFF;
 	width:100%;
 	height:100%;
-	padding: 0.8em;
+	padding: 1em;
 	
 }
 a {

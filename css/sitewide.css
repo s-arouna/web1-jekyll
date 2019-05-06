@@ -70,7 +70,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	padding: 1em;
 	font-family: Arial;
   font-weight:100;
-	margin-top: 3em;
+	margin-top: 1em;
 
 }
 .buttonposistion a{margin: 0 auto;
@@ -81,7 +81,7 @@ width: 2em;}
   background-color: #73A66B;
   font-weight: 700;
 }
-.img2 {max-width: 90%;
+.img2 {height: 300px;
 	padding-bottom: 1em;	
 }
 	

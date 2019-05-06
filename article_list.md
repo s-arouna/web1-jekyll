@@ -3,6 +3,7 @@ layout: article_list
 ---
 <div class="article">
   <div class="article1">
+    <a href="/web1-jekyll/surface.html">
     <img src="/web1-jekyll/img/surface.jpg" alt="photo of surface" class="photo-surface">
     <h4>Surface Water:</h4>
       <p>Water occurs in many forms; precipitation (rain, fog and snow), streams, rivers, ponds, lakes, snow pack, permafrost,       glaciers, soil water (moisture), and groundwater. 

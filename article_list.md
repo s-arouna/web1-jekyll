@@ -34,5 +34,5 @@ layout: article_list
   <p>From the smallest mouse to a giant grizzly bear, national parks are home to animals of all shapes and sizes.</p>
 </div>
 
-
+</div>
 

@@ -109,12 +109,12 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 90%;
+		height: 95%;
 }
 .cata2 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr 1fr;
-		height: 92vh;
+		height: 97%;
 }
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg);

@@ -32,7 +32,6 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	 display: grid;
 	    grid-template-columns: 1fr ;
 	background: white;
-      		height:8vh;
 	}
 	nav ul{
 		list-style-type: none;

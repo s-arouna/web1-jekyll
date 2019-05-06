@@ -111,7 +111,7 @@ text-decoration:none;
 		height: 98%;
 		width:100%;
 		text-decoration: none;
-		color:#ffffff;
+		text-color:#ffffff;
 }
 .cata2 {width: 100%;
 		display: grid;
@@ -119,7 +119,7 @@ text-decoration:none;
 		height: 70vh;
 		width:100%;
 		text-decoration: none;
-		color:#ffffff;
+		text-color:#ffffff;
 }
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg);

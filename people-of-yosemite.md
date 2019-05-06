@@ -2,9 +2,7 @@
 layout: specific
 title: People of Yosemite
 ---
-<div class="img2">
 <img src="/web1-jekyll/img/yose.jpg" alt="photo of surface" class="photo-surface">
-</div>
 <div class="People">
   <h1>People of Yosemite</h1>
 <p>The history of people in Yosemite goes back thousands of years. American Indians traveled and used this area since Ice Age glaciers receded providing an environment for plants, animals, and people to survive. Their descendents remain a part of Yosemite’s history to the present day.

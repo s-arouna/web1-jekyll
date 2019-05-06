@@ -1,10 +1,10 @@
 ---
 layout: page
-image: img/nps.park2.jpeg
+image: /web1-jekyll/img/park2.jpeg
 ---
 
 <div class="indexsplit">
-<img src="img/nps.park2.jpeg" alt="nps">
+<img src="/web1-jekyll/img/park2.jpeg" alt="nps">
  <div class="about_home">
  <h1> National Park Service </h1>
 

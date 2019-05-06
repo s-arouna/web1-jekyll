@@ -6,7 +6,7 @@ title: Carving History
 <img src="/web1-jekyll/img/yosemite.jpeg" alt="photo of surface" class="photo-surface">
 </div>
 
-    <div class="water2">
+<div class="water2">
 ### October 4, 1927 - October 31, 1941
 
 Mount Rushmore is a project of colossal proportion, colossal ambition and colossal achievement. It involved the efforts of nearly 400 men and women. The duties involved varied greatly from the call boy to drillers to the blacksmith to the housekeepers. Some of the workers at Mount Rushmore were interviewed, and were asked, "What is it you do here?" One of the workers responded and said, "I run a jackhammer." Another worker responded to the same question, " I earn $8.00 a day." However, a third worker said, "I am helping to create a memorial." The third worker had an idea of what they were trying to accomplish.

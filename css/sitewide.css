@@ -180,10 +180,10 @@ text-decoration:none;
     		grid-template-columns:1fr 1fr;
 		max-height: 90vh;
 }
-.about_home {max-width: 70%;
+.about_home {max-width: 90%;
 		margin: 0 auto;
 	}
-.about_home p{padding: .3em;}
+.about_home p{padding: 1em;}
 
 
 /*--------------- articles_list ---------------------*/

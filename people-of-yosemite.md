@@ -7,6 +7,13 @@ title: People of Yosemite
   <div class="water-name">
   <h1>People of Yosemite</h1>
   </div>
+
+<div class="water">
+    <div class="water1">
+    <h3>The history of people</h3>
+      <h3>Discovery of gold </h3>
+    </div>
+  
       <div class="water2">
 <p>The history of people in Yosemite goes back thousands of years. American Indians traveled and used this area since Ice Age glaciers receded providing an environment for plants, animals, and people to survive. Their descendents remain a part of Yosemite’s history to the present day.
 

@@ -70,7 +70,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	padding: 1em;
 	font-family: Arial;
   font-weight:100;
-	margin: 10em;
+	margin: 5em;
 
 }
 .buttonposistion a{margin: 0 auto;
@@ -109,12 +109,14 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 95%;
+		height: 100%;
+		width:100%;
 }
 .cata2 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr 1fr;
-		height: 97%;
+		height:100%;
+		width:100%;
 }
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg);

@@ -181,7 +181,7 @@ text-decoration:none;
 .article {
 	margin: 0 auto  auto;
 	padding:0 1rem;
-	padding-top: 7em;
+	padding-top: 3em;
 	width: 100%;   
 	display: grid;
 	grid-template-columns:1fr 1fr 1fr 1fr;

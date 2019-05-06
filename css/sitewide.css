@@ -251,9 +251,10 @@ p {
 	/* container on larger screens */
 	.container {
 		width: 100%;
-		max-width: 1200px;
+		max-width: 1600px;
 		margin-right: auto;
 		margin-left: auto;
+		padding: 1em;
 		border: 1px solid #ddd;
 	}
 

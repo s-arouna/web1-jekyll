@@ -4,7 +4,7 @@ image: img/nps.cover.jpg
 ---
 
 <div class="indexsplit">
-<img src="img/nps.cover.jpg" alt="nps">
+<img src="img/nps.park2.jpg" alt="nps">
  <div class="about_home">
  <h1> National Park Service </h1>
 

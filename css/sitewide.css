@@ -251,12 +251,10 @@ p {
 	
 	/* container on larger screens */
 	.container {
-		width: 90%;
+		width: 100%;
 		max-width: 1200px;
-		margin: 1em;
 		margin-right: auto;
 		margin-left: auto;
-		padding: 2em;
 		border: 1px solid #ddd;
 	}
 

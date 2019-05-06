@@ -108,7 +108,7 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 90%;
+		height: 98%;
 		width:100%;
 }
 .cata2 {width: 100%;
@@ -153,10 +153,10 @@ text-decoration:none;
 	padding-top:13em;
 	margin-top: 0;
 	text-decoration: none;
-		color:#000;
+	color:#ffffff;
 }
 
-		.cata2 h1 {font-family: Arial;
+	.cata2 h1 {font-family: Arial;
 	font-size: 36px;
 	text-align: center;
 	color: #ffffff;

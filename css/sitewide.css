@@ -163,10 +163,9 @@ body {
     		grid-template-columns:1fr 2fr;
 		height: 70vh;
 }
-.about_home {
-
+.about_home {max-width: 70%;
+		margin: 0 auto;
 	}
-
 
 /*--------------- articles_list ---------------------*/
 .article {

@@ -110,16 +110,12 @@ text-decoration:none;
     		grid-template-columns:1fr 1fr;
 		height: 98%;
 		width:100%;
-		text-decoration: none;
-		text-color:#ffffff;
 }
 .cata2 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr 1fr;
 		height: 70vh;
 		width:100%;
-		text-decoration: none;
-		text-color:#ffffff;
 }
 .animals {
 		background-image:url(/web1-jekyll/img/bear.jpeg);
@@ -154,18 +150,18 @@ text-decoration:none;
 	.cata1 h1 {font-family: Arial;
 	font-size: 36px;
 	text-align: center;
-	padding-top:6em;
+	padding-top:9em;
 	margin-top: 0;
 	text-decoration: none;
 	color:#ffffff;
-		padding-top:.5em;
+	
 }
 
 	.cata2 h1 {font-family: Arial;
 	font-size: 36px;
 	text-align: center;
 	color: #ffffff;
-	padding-top:6em;
+	padding-top:9em;
 	margin-top: 0;
 	text-decoration:none;
 

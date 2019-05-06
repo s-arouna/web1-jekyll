@@ -5,7 +5,9 @@ title: Carving History
 <div class="img2">
 <img src="/web1-jekyll/img/yosemite.jpeg" alt="photo of surface" class="photo-surface">
 </div>
-## October 4, 1927 - October 31, 1941
+
+    <div class="water2">
+### October 4, 1927 - October 31, 1941
 
 Mount Rushmore is a project of colossal proportion, colossal ambition and colossal achievement. It involved the efforts of nearly 400 men and women. The duties involved varied greatly from the call boy to drillers to the blacksmith to the housekeepers. Some of the workers at Mount Rushmore were interviewed, and were asked, "What is it you do here?" One of the workers responded and said, "I run a jackhammer." Another worker responded to the same question, " I earn $8.00 a day." However, a third worker said, "I am helping to create a memorial." The third worker had an idea of what they were trying to accomplish.
 
@@ -22,3 +24,4 @@ Visitors to the site were very interested in the honeycombed granite and would o
 After the honeycombing, the workers smoothed the surface of the faces with a hand facer or bumper tool. In this final step, the bumper tool would even up the granite, creating a surface as smooth as a sidewalk.
 
 From 1927 to 1941 the 400 workers at Mount Rushmore were doing more than operating a jackhammer, they were doing more than earning $8.00 a day, they were building a Memorial that people from across the nation and around the world would come to see for generations.
+</div>

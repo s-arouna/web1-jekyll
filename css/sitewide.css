@@ -148,16 +148,17 @@ text-decoration:none;
 	.cata1 h1 {font-family: Arial;
 	font-size: 25px;
 	text-align: center;
-	color: #ffffff;
 	padding-top:10em;
-		margin-top: 0; }
+		margin-top: 0;
+  color: white;}
 
 		.cata2 h1 {font-family: Arial;
 	font-size: 25px;
 	text-align: center;
 	color: #ffffff;
 	padding-top:10em;
-		margin-top: 0; }
+		margin-top: 0;
+  color: white;}
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
 	If you have more than one container, you are probably doing

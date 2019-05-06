@@ -10,6 +10,7 @@ layout: article_list
        This is water that can be seen on the surface such as rivers, streams, lakes, ponds, glaciers or wetlands. 
       Surface water interacts with many different factors in the environment and as such can become contaminated 
         or pick up different pollutants along the way.</p>
+    </a>
   </div>
 
 <div class="article2">

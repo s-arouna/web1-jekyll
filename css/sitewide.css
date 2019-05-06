@@ -108,13 +108,13 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 99%;
+		height: 99vh;
 		width:100%;
 }
 .cata2 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr 1fr;
-		height: 95%;
+		height: 95vh;
 		width:100%;
 }
 .animals {

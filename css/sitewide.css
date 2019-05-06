@@ -83,8 +83,7 @@ width: 2em;}
 }
 .img2 {max-width: 100%;
 	height: 300px; 
-	padding-bottom: 1em;
-	
+	padding-bottom: 1em;	
 }
 	
 /* ----------------------------Site style ------------------------------ */
@@ -180,6 +179,8 @@ text-decoration:none;
 .about_home {max-width: 70%;
 		margin: 0 auto;
 	}
+.about_home p{padding: 1em;}
+
 
 /*--------------- articles_list ---------------------*/
 .article {

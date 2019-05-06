@@ -21,13 +21,11 @@ layout: cata
                   <h1> <a href="animals.html">Animals</a> </h1>
               </div>
        </div>
-      
     <div class="history">
     <div class="history-title">
          <h1> <a href="history.html">History</a> </h1>
           </div>
-      </div>
-      
+      </div>   
     <div class="other">
     <div class="other-title">
       <h1> Other </h1>

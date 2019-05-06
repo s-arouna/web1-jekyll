@@ -183,7 +183,7 @@ text-decoration:none;
 .about_home {max-width: 70%;
 		margin: 0 auto;
 	}
-.about_home p{padding: 1em;}
+.about_home p{padding: .3em;}
 
 
 /*--------------- articles_list ---------------------*/

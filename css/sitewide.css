@@ -32,6 +32,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	 display: grid;
 	    grid-template-columns: 1fr ;
 	background: white;
+      		height:8vh;
 	}
 	nav ul{
 		list-style-type: none;
@@ -69,7 +70,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	padding: 1em;
 	font-family: Arial;
   font-weight:100;
-	margin-top: 4em;
+	margin: 50em;
 
 }
 .buttonposistion a{margin: 0 auto;
@@ -80,8 +81,10 @@ width: 2em;}
   background-color: #73A66B;
   font-weight: 700;
 }
-.img2 {height: 300px;
-	padding-bottom: 1em;	
+.img2 {max-width: 100%;
+	height: 300px; 
+	padding-bottom: 1em;
+	
 }
 	
 /* ----------------------------Site style ------------------------------ */
@@ -95,7 +98,7 @@ body {
 	background-color: #FFFFFF;
 	width:100%;
 	height:100%;
-	padding: 1em;
+	padding: 0.8em;
 	
 }
 a {
@@ -106,7 +109,7 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 92vh;
+		height: 90%;
 }
 .cata2 {width: 100%;
 		display: grid;

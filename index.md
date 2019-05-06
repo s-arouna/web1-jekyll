@@ -1,6 +1,6 @@
 ---
 layout: page
-image: img/nps.cover.jpg
+image: img/nps.park2.jpeg
 ---
 
 <div class="indexsplit">

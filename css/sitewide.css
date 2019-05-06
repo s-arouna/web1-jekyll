@@ -101,6 +101,9 @@ body {
 	padding: 0.8em;
 	
 }
+a {
+text-decoration:none;
+}
 
 /*---------------Catagories---------------------*/
 .cata1 {width: 100%;

@@ -124,9 +124,9 @@ text-decoration:none;
 		max-width:100%;
 }
 .people {
-		background-image:url(/web1-jekyll/img/yosemite.jpeg);
+		background-image:url(/web1-jekyll/img/hike.jpeg);
 		background-size: cover;
-		background-position: bottom center;
+		background-position: center 100%;
 		max-width:100%;
 }
 .environment {

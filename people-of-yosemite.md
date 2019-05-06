@@ -3,7 +3,7 @@ layout: specific
 title: People of Yosemite
 ---
 <div class="img2">
-<img src="/web1-jekyll/img/yosemite.jpeg" alt="photo of surface" class="photo-surface">
+<img src="/web1-jekyll/img/yose.jpeg" alt="photo of surface" class="photo-surface">
 </div>
 <div class="People">
   <h1>People of Yosemite</h1>

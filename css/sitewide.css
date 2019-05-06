@@ -71,12 +71,12 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 	font-family: Arial;
 	font-style:italic;
   font-weight:100;
-	margin: 0 auto;
+	margin: 30em;
 
 }
 .buttonposistion a{margin: 0 auto;
 display: block;
-width: 7em;}
+width: 2em;}
 
 .button:hover:not(.active) {
   background-color: #73A66B;

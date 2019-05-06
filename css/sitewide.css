@@ -108,13 +108,13 @@ text-decoration:none;
 .cata1 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr;
-		height: 98%;
+		height: 99%;
 		width:100%;
 }
 .cata2 {width: 100%;
 		display: grid;
     		grid-template-columns:1fr 1fr 1fr;
-		height: 90%;
+		height: 95%;
 		width:100%;
 }
 .animals {
@@ -130,7 +130,7 @@ text-decoration:none;
 		max-width:100%;
 }
 .environment {
-		background-image:url(/web1-jekyll/img/water1.jpg);
+		background-image:url(/web1-jekyll/img/water.jpg);
 		background-size: cover;
 		background-position: center 100%;
 		max-width:100%;

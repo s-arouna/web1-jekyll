@@ -24,7 +24,6 @@ img: water.jpg
      </div>
 
 
-</div>
 
 
 
